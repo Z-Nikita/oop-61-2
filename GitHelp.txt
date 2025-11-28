@@ -1,0 +1,17 @@
+Команды для регистрации ваших данных
+пишутся один на ПК
+git config user.name "Z-Nikita"
+git config user.email "nik1210022@gmail.com"
+============================================================
+Пишутся один раз на проект
+git init
+git remote add origin https://github.com/Z-Nikita/oop-61-2.git
+===============================================================
+
+
+
+git status
+нужно создать файл .gitignore
+git add .
+git commit -m "same text"
+git push origin master
